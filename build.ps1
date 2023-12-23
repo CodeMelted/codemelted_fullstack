@@ -48,7 +48,7 @@ function build([string[]]$params) {
     Remove-Item -Path "docs" -Force -Recurse -ErrorAction Ignore
 
     message "Now Running Deno tests"
-    deno test --allow-env --allow-net --allow-read --allow-sys --allow-write --coverage=coverage codemelted_test.js
+    deno test --allow-env --allow-net --allow-read --allow-sys --allow-write --coverage=coverage codemelted_fullstack_test.js
     deno coverage coverage --lcov > coverage/lcov.info
 
     if ($IsLinux -or $IsMacOS) {
@@ -70,7 +70,6 @@ function build([string[]]$params) {
         jsdoc --configure theme/jsdoc-linux-mac.json --verbose
     }
     Move-Item -Path coverage -Destination docs -Force
-    Copy-Item -Path codemelted.js -Destination docs -Force
 
     message "$PROJ_NAME build completed"
 }
