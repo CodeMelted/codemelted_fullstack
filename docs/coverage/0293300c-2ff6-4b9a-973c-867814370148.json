@@ -1,0 +1,16 @@
+{
+  "scriptId": "299",
+  "url": "file:///C:/Users/DarkT/Documents/GitHub/codemelted.github.io/codemelted_fullstack/codemelted.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2007, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1888, "endOffset": 1986, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}
