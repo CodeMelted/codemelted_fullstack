@@ -73,7 +73,7 @@ function build([string[]]$params) {
 
     # Fix the title
     [string]$htmlData = Get-Content -Path "docs/index.html"
-    $htmlData = $htmlData.Replace("<title>Home</title>", "<title>CodeMelted Fullstack Module</title>")
+    $htmlData = $htmlData.Replace("<title>Home</title>", "<title>CodeMelted - Fullstack Module</title>")
     $htmlData | Out-File docs/index.html -Force
 
     message "$PROJ_NAME build completed"
