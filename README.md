@@ -9,7 +9,7 @@
   </div>
   <div style="display: grid; grid-template-columns: auto auto auto; width: 100%; max-width: 500px;">
       <a id="btnDevGitHub" title="About Me" href="#" target="_blank"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/github.png"/></a>
-      <a id="btnDevSupport" title="Support My Work" target="_blank" href="#"><img style="height: 30px;" src="https://developer.codemelted.com/support/icons/bmc-button.png" /></a>
+      <a id="btnDevSupport" title="Support My Work" target="_blank" href="#"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/bmc-button.png" /></a>
       <a id="btnDevJSON" title="JSON Feed" href="#" target="_blank"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/json-feed.png"/></a>
   </div>
 </center>
