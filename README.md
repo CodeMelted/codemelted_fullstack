@@ -16,7 +16,9 @@
 
 <h1> <img style="height: 35px;" src="https://developer.codemelted.com/assets/images/icons/javascript.png" /> CodeMelted Fullstack Module </h1>
 
-INTRODUCTION
+Welcome to the **CodeMelted Fullstack Module** project. This project aims to give a common fullstack solution for Progressive Web Applications (PWA) utilizing the **CodeMelted Developer** design. It utilizes the <a href='https://deno.com/' target='_blank'>Deno Runtime</a> to run as your backend service. This was chosen as it has a full range of services for your backend if you choose to utilize it. You can also take your backend and host it on a different platform. This allows you to not be locked into a vendor for your backend.
+
+Deno was also chosen because it implements the <a href='https://developer.mozilla.org/en-US/docs/Web/API' target='_blank'>Browser Web APIs</a>. This allows the module to implement backend and web frontend common code developing a more complete solution. Lastly, Deno provides the use of TypeScript natively out of the box. So you are able to utilize both JavaScript / TypeScript for your solution an roll with any build system.
 
 **Table of Contents**
 
