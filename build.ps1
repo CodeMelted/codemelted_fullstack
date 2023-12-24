@@ -71,6 +71,11 @@ function build([string[]]$params) {
     }
     Move-Item -Path coverage -Destination docs -Force
 
+    # Fix the title
+    [string]$htmlData = Get-Content -Path "docs/index.html"
+    $htmlData = $htmlData.Replace("<title>Home</title>", "<title>CodeMelted Fullstack Module</title>")
+    $htmlData | Out-File docs/index.html -Force
+
     message "$PROJ_NAME build completed"
 }
 build $args

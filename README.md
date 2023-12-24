@@ -9,7 +9,7 @@
     <a title="Web Module" href="https://developer.codemelted.com/codemelted_web/docs" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/flutter.png"/></a>
   </div>
 </center>
-<br />
+
 <h1> <img style="height: 35px;" src="https://developer.codemelted.com/assets/images/icons/javascript.png" /> CodeMelted Fullstack Module </h1>
 
 INTRODUCTION
