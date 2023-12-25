@@ -15,6 +15,13 @@ Welcome to the **CodeMelted Fullstack Module** project. This project aims to giv
 
 Deno was also chosen because it implements the <a href='https://developer.mozilla.org/en-US/docs/Web/API' target='_blank'>Browser Web APIs</a>. This allows the module to implement backend and web frontend common code developing a more complete solution. Lastly, Deno provides the use of TypeScript natively out of the box. So you are able to utilize both JavaScript / TypeScript for your solution an roll with any build system.
 
+<center>
+  <a title="Support My Work" href="#">
+  <img id="btnSupport" style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/bmc-button.png"/>
+  </a>
+  <p>Please support my work if you find this module useful. Thank you.</p>
+</center>
+
 **Table of Contents**
 
 - [Getting started](#getting-started)
