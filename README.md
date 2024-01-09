@@ -1,6 +1,6 @@
 <center>
   <a title="Back to Codemelted Developer" href="https://developer.codemelted.com" target="_self"><img style="width: 100%; max-width: 300px;" src="https://developer.codemelted.com/assets/images/logos/developer-non-banner.png" /></a>
-  <div style="display: grid; grid-template-columns: auto auto auto auto auto; width: 100%; max-width: 500px;">
+  <div style="display: grid; grid-template-columns: auto auto auto auto auto; width: 100%; max-width: 300px;">
     <a title="Raspberry Pi Project" href="https://developer.codemelted.com/codemelted_pi" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/raspberry-pi.png"/></a>
     <a title="Embedded Module" href="https://developer.codemelted.com/codemelted_embedded" target="_self"><img style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/c.png"/></a>
     <a title="Terminal Module" href="https://developer.codemelted.com/codemelted_terminal" target="_self"><img style="height: 25px;" src="https://developer.codemelted.com/assets/images/icons/powershell.png"/></a>
@@ -16,7 +16,7 @@ Welcome to the **CodeMelted Fullstack Module** project. This project aims to giv
 Deno was also chosen because it implements the <a href='https://developer.mozilla.org/en-US/docs/Web/API' target='_blank'>Browser Web APIs</a>. This allows the module to implement backend and web frontend common code developing a more complete solution. Lastly, Deno provides the use of TypeScript natively out of the box. So you are able to utilize both JavaScript / TypeScript for your solution an roll with any build system.
 
 <center>
-  <a title="Support My Work" href="#">
+  <a title="Support My Work" href="https://www.buymeacoffee.com/codemelted" target="_blank">
   <img id="btnSupport" style="height: 30px;" src="https://developer.codemelted.com/assets/images/icons/bmc-button.png"/>
   </a>
   <p>Please support my work if you find this module useful. Thank you.</p>
